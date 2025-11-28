@@ -1,16 +1,41 @@
-# React + Vite
+# 🌌 METOPIA — The City Where UI Lives
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Metopia is not just a frontend website.  
+It’s a **visual experience** — a digital skyline carved with motion, glow, and precision.
 
-Currently, two official plugins are available:
+Built with modern frontend weapons like **React, Framer Motion, GSAP, and advanced CSS**, Metopia pushes pixels beyond boredom and into cinematic territory. Every animation has intent. Every section breathes. Every interaction says: “This is not a template.”
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Experience
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 Live Demo: _(Add link here)_
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Tech Stack (The Heavy Arsenal)
+
+- ⚛️ **React** — Modern component-based UI
+- 🎞 **Framer Motion** — Fluid, expressive animations
+- 🌀 **GSAP** — Timeline magic & scroll-triggered motion
+- 🎨 **CSS / SCSS / Tailwind (if used)** — Custom UI styling
+- ⚡ **Vite / CRA / Next.js (whichever you used)** — Lightning-fast build system
+- 🧩 Modular Component Architecture
+- 🎯 Responsive & Mobile-First Design
+
+---
+
+## ✨ Features
+
+- 🔥 Glassmorphism and gradient-heavy UI
+- 🧠 Micro-interactions that _feel alive_
+- 📱 Fully responsive layout
+- 🎬 Scroll-based animations
+- 🖱 Smooth hover & transition effects
+- ⚙ Modular and reusable components
+- 🛸 Optimized for performance
+- 🌊 Smooth page transitions
+
+---
+
+## 🏗 Folder Structure
