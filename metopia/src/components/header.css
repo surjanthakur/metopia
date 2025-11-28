@@ -1,8 +1,36 @@
-.nav {
+.header-container {
   background-color: #0b0b0b;
   font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-.brands{
-    
+.brand-name {
+  font-family: 'Rubik Moonrocks', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 1px;
+}
+
+.all-routes {
+  border: none;
+  border-radius: 30px;
+}
+
+.brands {
+  background: linear-gradient(135deg, #f2a7d4, #c77dff) !important;
+  height: 50px;
+  width: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+}
+
+.demo {
+  background: linear-gradient(135deg, #f2a7d4, #c77dff) !important;
+  height: 49px;
+  width: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
 }
