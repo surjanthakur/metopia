@@ -1,1 +1,23 @@
+:root {
+  --bg-main: #000000;
+  --bg-soft: #0b0b0b;
+  --bg-card: #111111;
 
+  --text-main: #ffffff;
+  --text-muted: #bdbdbd;
+  --text-dim: #8a8a8a;
+
+  --accent-pink: #e39ac9;
+  --accent-pink-soft: #f4cce8;
+
+  --mint: #c8f7da;
+  --peach: #ffd6a5;
+  --sky: #dbe7ff;
+  --lavender: #e6d9ff;
+  --lemon: #fff1b8;
+
+  --button-bg: linear-gradient(135deg, #f2a7d4, #c77dff);
+  --button-text: #ffffff;
+
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
